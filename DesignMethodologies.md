@@ -6,7 +6,7 @@
 In structured design coupling refers to the relationship complexity between software modules. High coupling means that two or more modules are tightly connected with one another and when implementing changes in one module the behaviour of another module could be affected. Whereas in low coupling modules are much more independent and when implementing changes to one module the behaviour of another module will have no to little impact.  
 
 Cohesion refers to the complexity of elements that work in conjunction within a module/method to fulfil a single purpose. High cohesion means that elements within a module are tied closely together and focus on a single purpose. Whereas low cohesion means elements are loosely connected to one another allowing them to be used for multiple purposes. 
-
+<p>&nbsp;</p>
 
 #### Q2. What is the difference between top-down and bottom-up design? Which best describes a function oriented design?
 
