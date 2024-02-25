@@ -1,6 +1,6 @@
 # Design Methodologies Lab
 
-#### <ins>Q1. What do we mean by coupling and cohesion when discussing structured design?<ins>
+#### **<ins>Q1. What do we mean by coupling and cohesion when discussing structured design?<ins>**
 
 
 In structured design coupling refers to the relationship complexity between software modules. High coupling means that two or more modules are tightly connected with one another and when implementing changes in one module the behaviour of another module could be affected. Whereas in low coupling modules are much more independent and when implementing changes to one module the behaviour of another module will have no to little impact.  
